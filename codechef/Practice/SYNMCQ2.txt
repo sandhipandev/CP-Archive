@@ -1,0 +1,8 @@
+// Problem: SYNMCQ2
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/cpp/LTCCPP01/problems/SYNMCQ2
+// Solved on: 2026-09-21T08:05:32.539Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
