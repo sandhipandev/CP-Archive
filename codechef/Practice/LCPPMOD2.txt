@@ -1,0 +1,8 @@
+// Problem: LCPPMOD2
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/skill-test/LCPPMOD2
+// Solved on: 2026-09-24T19:57:18.535Z
+
+// source not captured automatically - open the solution page and copy it manually
