@@ -3,6 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM?tab=Submissions
-// Solved on: 2026-09-24T19:48:04.204Z
+// Solved on: 2026-09-24T19:48:05.987Z
 
 // source not captured automatically - open the solution page and copy it manually
