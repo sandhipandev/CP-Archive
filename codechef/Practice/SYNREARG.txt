@@ -1,0 +1,9 @@
+// Problem: SYNREARG
+// Platform: codechef
+// Language: Hello
+World
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/cpp/LTCCPP02/problems/SYNREARG
+// Solved on: 2026-10-11T13:09:22.550Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
