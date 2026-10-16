@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/LCPPMOD1
-// Solved on: 2026-10-14T04:33:01.958Z
+// Solved on: 2026-10-16T17:42:44.265Z
 
 // source not captured automatically - open the solution page and copy it manually
